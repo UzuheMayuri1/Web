@@ -1,0 +1,37 @@
+
+.UZUHE-history {
+  width: 100%;
+}
+
+ul{
+  padding-inline-start: 0;
+}
+
+.UZUHE-history-title{
+  font-size: 3rem;
+  line-height: 0%;
+  margin-top: 7rem;
+  margin-bottom: 2rem;
+}
+
+.UZUHE-history li{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid .5px var(--main-border-color);
+}
+
+.UZUHE-history li:first-child {
+  border-top: solid .5px var(--main-border-color);
+}
+
+.UZUHE-history li p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  text-align: right;
+}
+
+.UZUHE-history h2,p{
+  font-size: .75rem;
+}

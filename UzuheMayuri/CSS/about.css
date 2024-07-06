@@ -1,0 +1,26 @@
+
+.UZUHE-history {
+  width: 100%;
+}
+
+ul{
+  padding-inline-start: 0;
+}
+
+.UZUHE-about-title{
+  font-size: 3rem;
+  line-height: 0%;
+  margin-top: 7rem;
+  margin-bottom: 2.5rem;
+}
+
+.UZUHE-about-text{
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  font-size: .75rem;
+}
+
+.strong{
+  font-weight: bolder;
+  font-size: .75rem;
+}
